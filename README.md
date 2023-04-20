@@ -1,5 +1,5 @@
 # Caesar Cipher
-A Go program that concurrently implements the Caesar Cipher algorithm on a list of strings.
+A Go program that concurrently implements the Caesar Cipher algorithm on a list of strings. (I also included the same function but in Racket!)
 
 ## Introduction
 The Caesar Cipher is a simple encryption technique in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet. This program takes a list of strings and applies the Caesar Cipher to each word concurrently, returning the resulting encrypted words.
